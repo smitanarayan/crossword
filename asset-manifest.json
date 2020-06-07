@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smitanarayan/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/smitanarayan/static/js/main.26efd868.chunk.js",
+    "main.js.map": "/smitanarayan/static/js/main.26efd868.chunk.js.map",
+    "runtime-main.js": "/smitanarayan/static/js/runtime-main.30e31875.js",
+    "runtime-main.js.map": "/smitanarayan/static/js/runtime-main.30e31875.js.map",
+    "static/js/2.e5b8944c.chunk.js": "/smitanarayan/static/js/2.e5b8944c.chunk.js",
+    "static/js/2.e5b8944c.chunk.js.map": "/smitanarayan/static/js/2.e5b8944c.chunk.js.map",
+    "index.html": "/smitanarayan/index.html",
+    "precache-manifest.5c7d8a35fce8e1fba4cfb06f3ebdc6e1.js": "/smitanarayan/precache-manifest.5c7d8a35fce8e1fba4cfb06f3ebdc6e1.js",
+    "service-worker.js": "/smitanarayan/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/smitanarayan/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e5b8944c.chunk.js.LICENSE.txt": "/smitanarayan/static/js/2.e5b8944c.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/smitanarayan/static/media/logo.e20e10a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30e31875.js",
+    "static/js/2.e5b8944c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.26efd868.chunk.js"
+  ]
+}
