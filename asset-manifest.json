@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/smitanarayan/crossword/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/smitanarayan/crossword/static/js/main.f6c53177.chunk.js",
-    "main.js.map": "/smitanarayan/crossword/static/js/main.f6c53177.chunk.js.map",
-    "runtime-main.js": "/smitanarayan/crossword/static/js/runtime-main.42499e00.js",
-    "runtime-main.js.map": "/smitanarayan/crossword/static/js/runtime-main.42499e00.js.map",
-    "static/js/2.43a0862b.chunk.js": "/smitanarayan/crossword/static/js/2.43a0862b.chunk.js",
-    "static/js/2.43a0862b.chunk.js.map": "/smitanarayan/crossword/static/js/2.43a0862b.chunk.js.map",
-    "index.html": "/smitanarayan/crossword/index.html",
-    "precache-manifest.3a10773103124a00b083f6af119f9f7d.js": "/smitanarayan/crossword/precache-manifest.3a10773103124a00b083f6af119f9f7d.js",
-    "service-worker.js": "/smitanarayan/crossword/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/smitanarayan/crossword/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.43a0862b.chunk.js.LICENSE.txt": "/smitanarayan/crossword/static/js/2.43a0862b.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/smitanarayan/crossword/static/media/logo.e20e10a6.png"
+    "main.css": "/smitanarayan/tapeditor/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/smitanarayan/tapeditor/static/js/main.5b2ea72b.chunk.js",
+    "main.js.map": "/smitanarayan/tapeditor/static/js/main.5b2ea72b.chunk.js.map",
+    "runtime-main.js": "/smitanarayan/tapeditor/static/js/runtime-main.a62d5785.js",
+    "runtime-main.js.map": "/smitanarayan/tapeditor/static/js/runtime-main.a62d5785.js.map",
+    "static/js/2.3c11755c.chunk.js": "/smitanarayan/tapeditor/static/js/2.3c11755c.chunk.js",
+    "static/js/2.3c11755c.chunk.js.map": "/smitanarayan/tapeditor/static/js/2.3c11755c.chunk.js.map",
+    "index.html": "/smitanarayan/tapeditor/index.html",
+    "precache-manifest.963feea31c8e09c1e4f797047a8c0f00.js": "/smitanarayan/tapeditor/precache-manifest.963feea31c8e09c1e4f797047a8c0f00.js",
+    "service-worker.js": "/smitanarayan/tapeditor/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/smitanarayan/tapeditor/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3c11755c.chunk.js.LICENSE.txt": "/smitanarayan/tapeditor/static/js/2.3c11755c.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/smitanarayan/tapeditor/static/media/logo.e20e10a6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.42499e00.js",
-    "static/js/2.43a0862b.chunk.js",
+    "static/js/runtime-main.a62d5785.js",
+    "static/js/2.3c11755c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f6c53177.chunk.js"
+    "static/js/main.5b2ea72b.chunk.js"
   ]
 }
