@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tapeditor/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/tapeditor/static/js/main.719081fc.chunk.js",
-    "main.js.map": "/tapeditor/static/js/main.719081fc.chunk.js.map",
-    "runtime-main.js": "/tapeditor/static/js/runtime-main.362c23c9.js",
-    "runtime-main.js.map": "/tapeditor/static/js/runtime-main.362c23c9.js.map",
-    "static/js/2.bebf58ba.chunk.js": "/tapeditor/static/js/2.bebf58ba.chunk.js",
-    "static/js/2.bebf58ba.chunk.js.map": "/tapeditor/static/js/2.bebf58ba.chunk.js.map",
-    "index.html": "/tapeditor/index.html",
-    "precache-manifest.505660c95dc569ec94311d985a51aca2.js": "/tapeditor/precache-manifest.505660c95dc569ec94311d985a51aca2.js",
-    "service-worker.js": "/tapeditor/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/tapeditor/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bebf58ba.chunk.js.LICENSE.txt": "/tapeditor/static/js/2.bebf58ba.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/tapeditor/static/media/logo.e20e10a6.png"
+    "main.css": "/crossword/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/crossword/static/js/main.7408a2ba.chunk.js",
+    "main.js.map": "/crossword/static/js/main.7408a2ba.chunk.js.map",
+    "runtime-main.js": "/crossword/static/js/runtime-main.fdd6e379.js",
+    "runtime-main.js.map": "/crossword/static/js/runtime-main.fdd6e379.js.map",
+    "static/js/2.e367b8a8.chunk.js": "/crossword/static/js/2.e367b8a8.chunk.js",
+    "static/js/2.e367b8a8.chunk.js.map": "/crossword/static/js/2.e367b8a8.chunk.js.map",
+    "index.html": "/crossword/index.html",
+    "precache-manifest.9b28ebea38c645cd9a8e316eefcc0b9e.js": "/crossword/precache-manifest.9b28ebea38c645cd9a8e316eefcc0b9e.js",
+    "service-worker.js": "/crossword/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/crossword/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e367b8a8.chunk.js.LICENSE.txt": "/crossword/static/js/2.e367b8a8.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/crossword/static/media/logo.e20e10a6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.362c23c9.js",
-    "static/js/2.bebf58ba.chunk.js",
+    "static/js/runtime-main.fdd6e379.js",
+    "static/js/2.e367b8a8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.719081fc.chunk.js"
+    "static/js/main.7408a2ba.chunk.js"
   ]
 }
